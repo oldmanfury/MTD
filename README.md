@@ -5,6 +5,12 @@ A powerful multi-tap delay adapted from Has Roel's abunch archive: http://www.ha
 
 https://www.instagram.com/p/CB8vaKChS7c/
 
+Installation: 
+Download the zip folder and place it in your \norns\we\sidekick\patches\Organelle folder
+Refresh the menu so it shows the "install zip file" option and select it. Hopefully you may now select the patch from sidekick.
+
+
+Usage:
 Norns knob functions (written on Fates - which has 4 knobs):  knob 4 is accessed by holding button 3 and turning knob 2 and volume is accessed by holding button 3 and turning knob 3
 
 knobs 1 and 2 Left Delay multipliers
