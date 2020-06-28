@@ -20,7 +20,7 @@
 #X obj 781 437 r teut;
 #X obj 778 484 s BPM;
 #X obj 878 34 t b b b b;
-#N canvas 218 252 552 367 panner 1;
+#N canvas 218 252 552 367 panner 0;
 #X obj 19 35 inlet~ left;
 #X obj 344 33 inlet~ right;
 #X obj 17 249 outlet~ left;
@@ -82,8 +82,8 @@
 #X msg 777 569 0.95;
 #X obj 682 45 expr 30+$f1*300;
 #X obj 671 152 change;
-#X obj 671 208 s oscOut;
-#X msg 671 180 /oled/line/5 \$1 BPM;
+#X obj 670 211 s oscOut;
+#X msg 670 183 /oled/line/5 \$1 BPM;
 #X obj 589 256 change;
 #X obj 589 312 s oscOut;
 #X msg 589 284 /oled/line/5 Feedback \$1;
@@ -147,8 +147,6 @@
 #X connect 40 0 53 0;
 #X connect 41 0 0 7;
 #X connect 41 0 44 0;
-#X connect 41 0 46 0;
-#X connect 41 0 45 0;
 #X connect 42 0 6 4;
 #X connect 42 0 5 4;
 #X connect 42 0 4 4;
