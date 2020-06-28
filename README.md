@@ -1,7 +1,9 @@
 # MTD
 norns mother multi-tap delay
 
+A powerful multi-tap delay adapted from Has Roel's abunch archive: http://www.hansroels.be/abunch-eng.htm
 
+https://www.instagram.com/p/CB8vaKChS7c/
 
 Norns knob functions (written on Fates - which has 4 knobs):  knob 4 is accessed by holding button 3 and turning knob 3
 
